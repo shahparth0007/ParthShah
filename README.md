@@ -34,6 +34,7 @@ Welcome to my portfolio. I am a Machine Learning Enthusiast.
 
 
 Want to discuss Machine Leanring? or <img src="https://github.com/shahparth0007/shahparth0007/blob/main/friends.png" width="70px"> ping me 👇
+- Email ID: shah.parth3@northeastern.edu
 - Linkdln : https://www.linkedin.com/in/parthshah007/
 - Kaggle : https://www.kaggle.com/parthshah0007
 - Hackerrank : https://www.hackerrank.com/parth981
