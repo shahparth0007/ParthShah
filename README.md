@@ -9,11 +9,6 @@ Welcome to my portfolio. I am a Machine Learning Enthusiast.
 #### 🧑‍💻 Data Science Research Assistant at Northeastern University and Ocean Genome Legacy
 
 
-
-- Linkdln : https://www.linkedin.com/in/parthshah007/
-- Kaggle : https://www.kaggle.com/parthshah0007
-- Hackerrank : https://www.hackerrank.com/parth981
-
 <h3>Things I code with</h3> <img align="right" alt="GIF" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" width="300" height="157" /><br>
 
 <p>
@@ -37,6 +32,11 @@ Welcome to my portfolio. I am a Machine Learning Enthusiast.
 |1️⃣|Google_Collab_Files| <img align="left" alt="GIF" src="https://github.com/shahparth0007/shahparth0007/blob/main/googlecollab.png" width="70" height="30" /> Respository which contain multiple different google collab files for machine learning <br><br> <ul><li>[HR Analytics Competition](https://github.com/shahparth0007/Google_Collab_Files/blob/main/HRAnalytics.ipynb) </li><li>[Data Cleaning and Processing](https://github.com/shahparth0007/Google_Collab_Files/blob/main/ML_Data_Cleaning_Feature_Selection.ipynb)</li></ul> |
 |2️⃣|[Dataset](https://github.com/shahparth0007/Datasets)| 💽  Respository which contain open source data which can be used for various purposes <br><br> <ul><li>[Customer Transaction Data](https://github.com/shahparth0007/Datasets/blob/main/DIWALI_2017_CUSTOMER_DATA_small.csv) </li><li>[HR Data](https://github.com/shahparth0007/Datasets/blob/main/Test_HR_Analytics.csv)</li></ul> |
 
+
+Want to discuss Machine Leanring? or <img src="https://github.com/shahparth0007/shahparth0007/blob/main/friends.png" width="70px"> ping me 👇
+- Linkdln : https://www.linkedin.com/in/parthshah007/
+- Kaggle : https://www.kaggle.com/parthshah0007
+- Hackerrank : https://www.hackerrank.com/parth981
 
 
 
