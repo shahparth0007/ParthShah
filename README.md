@@ -8,5 +8,12 @@ Welcome to my portfolio. I am a Machine Learning Enthusiast.
 🧑‍💻 Data Science Research Assistant at Northeastern University and Ocean Genome Legacy
 
 
+
+- Linkdln : https://www.linkedin.com/in/parthshah007/
+
+- Kaggle : https://www.kaggle.com/parthshah0007
+
+- Hackerrank : https://www.hackerrank.com/parth981
+
 ![VisitorCount](https://profile-counter.glitch.me/{shahparth0007}/count.svg)
 
