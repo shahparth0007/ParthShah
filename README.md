@@ -1,3 +1,3 @@
 # ParthShah
 
-(https://profile-counter.glitch.me/{shahparth0007}/count.svg)
+(https://profile-counter.glitch.me/{syedareehaquasar}/count.svg)
