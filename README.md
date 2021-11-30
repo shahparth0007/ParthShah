@@ -1,4 +1,4 @@
-### Hi there, I'm Parth! <img src="https://github.com/ShiviBhatt/IconsRepo/blob/master/Hi.gif" width="30px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> Hi there, I'm Parth! <img src="https://github.com/ShiviBhatt/IconsRepo/blob/master/Hi.gif" width="30px">
 
 Welcome to my portfolio. I am a Machine Learning Enthusiast.
 
