@@ -2,7 +2,7 @@
 
 Welcome to my portfolio. I am a Machine Learning Enthusiast.
 
-<img align="left" alt="GIF" src="https://github.com/shahparth0007/shahparth0007/blob/main/maxresdefault.jpg" width="400" height="100" />
+<img align="left" alt="GIF" src="https://github.com/shahparth0007/shahparth0007/blob/main/maxresdefault.jpg" width="400" height="97" />
 
 #### 👨‍🎓 Graduate Student at Northeastern University
 
@@ -18,7 +18,8 @@ Welcome to my portfolio. I am a Machine Learning Enthusiast.
 
 |䷛| Repository| Description|
 |---|---|---|
-|1|Google_Collab_Files| <img align="left" alt="GIF" src="https://github.com/shahparth0007/shahparth0007/blob/main/gogglecollab.png" width="50" height="10" />
+|1|Google_Collab_Files| <img align="left" alt="GIF" src="https://github.com/shahparth0007/shahparth0007/blob/main/googlecollab.png" width="70" height="30" /> Respository which contain multiple different google collab files for machine learning <br><br> <ul><li>[HR Analytics Competition](https://github.com/shahparth0007/Google_Collab_Files/blob/main/HRAnalytics.ipynb) </li><li>[Data Cleaning and Processing](https://github.com/shahparth0007/Google_Collab_Files/blob/main/ML_Data_Cleaning_Feature_Selection.ipynb)</li></ul> 
+
 
 
 Visitors Count: 
