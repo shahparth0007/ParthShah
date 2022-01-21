@@ -31,7 +31,7 @@ Welcome to my portfolio. I am a Machine Learning Enthusiast.
 |2️⃣|[Dataset](https://github.com/shahparth0007/Datasets)| 💽  Respository which contain open source data which can be used for various purposes <br><br> <ul><li>[Customer Transaction Data](https://github.com/shahparth0007/Datasets/blob/main/DIWALI_2017_CUSTOMER_DATA_small.csv) </li><li>[HR Data](https://github.com/shahparth0007/Datasets/blob/main/Test_HR_Analytics.csv)</li></ul> |
 
 
-Want to discuss Machine Leanring? or <img src="https://github.com/shahparth0007/shahparth0007/blob/main/friends.png" width="70px"> ping me 👇
+Want to discuss Machine Learning? or <img src="https://github.com/shahparth0007/shahparth0007/blob/main/friends.png" width="70px"> ping me 👇
 - Email ID: shah.parth3@northeastern.edu
 - Linkdln : https://www.linkedin.com/in/parthshah007/
 - Kaggle : https://www.kaggle.com/parthshah0007
