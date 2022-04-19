@@ -1,6 +1,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> Hi there, I'm Parth! <img src="https://github.com/ShiviBhatt/IconsRepo/blob/master/Hi.gif" width="30px">
 
-Welcome to my portfolio. I am a Data Science Enthusiast.
+Welcome to my portfolio. I am a Data Science/Data Engineering Enthusiast.
 
 I'm currently looking out for co-ops or internships starting Summer 2022 in the field of Data Science/Data Engineering/ Business Analyst.
 Please reach out to me if you're hiring, have any questions or just want to collaborate!
