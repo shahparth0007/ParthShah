@@ -2,14 +2,17 @@
 
 Welcome to my portfolio. I am a Data Science/Data Engineering Enthusiast.
 
-I'm currently looking out for co-ops or internships starting Summer 2022 in the field of Data Science/Data Engineering/ Business Analyst.
+I'm currently looking out for Full time starting Summer 2023 in the field of Data Science/Data Engineering/ Business Analyst.
 Please reach out to me if you're hiring, have any questions or just want to collaborate!
 
-<img align="left" alt="GIF" src="https://github.com/shahparth0007/shahparth0007/blob/main/maxresdefault.jpg" width="400" height="97" />
+<img align="left" alt="GIF" src="https://github.com/shahparth0007/shahparth0007/blob/main/maxresdefault.jpg" width="400" height="157" />
+
 
 #### 👨‍🎓 Graduate Student at Northeastern University
-
+#### 🧑‍💻 Advance Analyst Co-Op @ Peapod Digital Labs
 #### 🧑‍💻 Data Science Research Assistant at Northeastern University and Ocean Genome Legacy
+#### 🧑‍💻 Teaching Assitant for Big Data and Intelligent Analytics @ Northeastern
+
 
 
 <h3>Things I code with</h3> <img align="right" alt="GIF" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" width="300" height="157" /><br>
