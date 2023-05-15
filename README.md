@@ -2,8 +2,6 @@
 
 Welcome to my portfolio. I am a Data Science/Data Engineering Enthusiast.
 
-I'm currently looking out for Full time starting Summer 2023 in the field of Data Science/Data Engineering/ Business Analyst.
-Please reach out to me if you're hiring, have any questions or just want to collaborate!
 
 <img align="left" alt="GIF" src="https://github.com/shahparth0007/shahparth0007/blob/main/maxresdefault.jpg" width="400" height="157" />
 
