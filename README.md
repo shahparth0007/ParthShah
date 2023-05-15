@@ -10,6 +10,7 @@ Welcome to my portfolio. I am a Data Science/Data Engineering Enthusiast.
 #### 🧑‍💻 Advance Analyst Co-Op @ Peapod Digital Labs
 #### 🧑‍💻 Data Science Research Assistant at Northeastern University and Ocean Genome Legacy
 #### 🧑‍💻 Teaching Assitant for Big Data and Intelligent Analytics @ Northeastern
+#### 🧑‍💻 Teaching Assitant for Program Structures and Algorithms
 
 
 
